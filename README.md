@@ -27,11 +27,11 @@ Projects and workflows from my Machine Learning Internships at Beacon and Deepce
 
 This internship focused on strengthening my core foundation through guided implementation notebooks across key AI domains:
 
-* **Computer Vision (CV):** Implemented classification models for **Dog vs. Cat** and **Dog Breed Identification** using **CNNs** and **Deep Learning** (DL).
-* **NLP & Transformers:** Explored the basics of **NLP** and worked through key concepts of **Transformer** models for sequence tasks.
-* **Deep Learning Fundamentals:** Studied and implemented core architectures like **GAN basics** and **Autoencoders** to understand generation and dimensionality reduction.
-* **Core Tech Stack:** Brush-up on **Python, OpenCV, TensorFlow, PyTorch, and Linux** usage.
+* **Computer Vision (CV):** Implemented classification models for Dog vs. Cat and Dog Breed Identification using CNNs and Deep Learning (DL).
+* **NLP & Transformers:** Explored the basics of NLP and worked through key concepts of Transformer models for sequence tasks.
+* **Deep Learning Fundamentals:** Studied and implemented core architectures like GAN basics and Autoencoders to understand generation and dimensionality reduction.
+* **Core Tech Stack:** Brush-up on Python, OpenCV, TensorFlow, PyTorch, and Linux usage.
 
 ---
 
-[cite_start]The internship experience was end-to-end, covering automation, **ML model development for business needs**, building interactive **Streamlit dashboards**, and delivering tangible business value with data[cite: 413, 416].
+The internship experience was end-to-end, covering automation, ML model development for business needs, building interactive Streamlit dashboards, and delivering tangible business value with data.
