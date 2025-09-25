@@ -5,7 +5,7 @@ Projects and workflows from my Machine Learning Internships at Beacon and Deepce
 
 ## 1. BEACON - Machine Learning Intern
 
-### 🌟 Featured Projects:
+### Projects:
 
 1.  **Lead Lifecycle Dashboard with Prediction and Prioritization:**
     * **Objective:** Developed a smart Streamlit dashboard to visualize the lead lifecycle, predict lead closure timelines using a HistGradientBoostingRegressor, and prioritize open leads based on conversion probability using a RandomForestClassifier.
@@ -23,7 +23,7 @@ Projects and workflows from my Machine Learning Internships at Beacon and Deepce
 
 ## 2. Deepcept AI - Software Engineering Intern
 
-### 📚 Learning & Implementation Highlights:
+### Learning & Implementation Highlights:
 
 This internship focused on strengthening my core foundation through guided implementation notebooks across key AI domains:
 
